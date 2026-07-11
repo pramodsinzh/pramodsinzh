@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Pramod%20Sinzh&fontSize=60&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Pramod%20Sinzh&fontSize=60&animation=twinkling&fontColor=ffffff& descAlignY=55&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);Building+Blogify+%26+ShowTimeX;ML-Powered+Web+Apps+%7C+FastAPI+%2B+Node.js;Open+to+Work+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -29,60 +29,13 @@ const pramodSinzh = {
     payments: ["Stripe", "eSewa", "Khalti"],
     jobsAndEmail: ["Inngest", "Nodemailer", "Brevo SMTP"],
     deployment: ["Vercel", "Render"],
-  },
-  launchedProjects: ["Blogify – Smart Blogging Platform", "ShowTimeX – Ticket Booking System"],
+  }, 
   certifications: ["MERN Stack Development Training – Broadway Infosys"],
   status: "Actively building and shipping full-stack projects",
   openTo: ["Full Stack Engineer roles", "Freelance/Contract work"],
 };
 ```
-
----
-
-## 🚀 Featured Projects
-
-### 🩵 Blogify – Smart Blogging Platform
-
-An AI-powered blogging platform built using the MERN stack that enables users to create, publish, and explore blogs intelligently. The platform integrates Machine Learning for automatic blog categorization and personalized content recommendations, enhancing content discoverability and user engagement.
-
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pramodsinzh&repo=Blogify-ML&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Blogify Repo Pin"/>
-</div>
-
-| Layer | Technology |
-|---|---|
-| Frontend | React.js |
-| Backend | Node.js, Express.js |
-| Database | MongoDB |
-| ML Service | FastAPI, TF-IDF, Logistic Regression |
-| Auth | Clerk |
-| Background Jobs | Inngest |
-
-🔗 [Live](https://blogify-ml.vercel.app/) · 💻 [Code](https://github.com/pramodsinzh/Blogify-ML)
-
----
-
-### 🩵 ShowTimeX – Full-Stack Ticket Booking System
-
-A production-ready movie ticket booking system with real-time seat locking, secure Stripe checkout with webhook verification, and a role-based admin dashboard. Built using a scalable full-stack architecture with React, Express, MongoDB, and Clerk authentication, along with background job processing for transactional email delivery.
-
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pramodsinzh&repo=ShowTimeX&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="ShowTimeX Repo Pin"/>
-</div>
-
-| Layer | Technology |
-|---|---|
-| Frontend | React, Vite |
-| Backend | Node.js, Express |
-| Database | MongoDB |
-| Payments | Stripe |
-| Auth | Clerk Auth |
-| Background Jobs / Email | Inngest, Nodemailer |
-
-🔗 [Live](https://showtime-x.vercel.app) · 💻 [Code](https://github.com/pramodsinzh/ShowTimeX)
-
----
-
+ 
 ## 🛠️ Tech Stack
 
 **Languages**
