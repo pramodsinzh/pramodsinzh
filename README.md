@@ -71,7 +71,7 @@ const pramodSinzh = {
 <div align="center">
 
 <img src="https://github-readme-stats-pramodsinzh.vercel.app/api?username=pramodsinzh&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats-pramodsinzh.vercel.app/api/top-langs/?username=pramodsinzh&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" width="42%"/>
+<img src="https://github-readme-stats-pramodsinzh.vercel.app/api/top-langs/?username=pramodsinzh&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&exclude_repo=Blogify-ML" alt="Top Languages" width="42%"/>
 
 <img src="https://streak-stats.demolab.com?user=pramodsinzh&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
 
