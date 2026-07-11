@@ -55,6 +55,7 @@ const pramodSinzh = {
 **Cloud & Deployment**
 <br/>
 <img src="https://skillicons.dev/icons?i=vercel" alt="Cloud"/>
+<img src="https://img.shields.io/badge/Render-7dd3fc?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
 
 **AI/DB**
 <br/>
