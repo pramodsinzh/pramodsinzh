@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Pramod%20Sinzh&fontSize=60&animation=twinkling&fontColor=ffffff& descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Pramod%20Sinzh&fontSize=60&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);Building+Blogify+%26+ShowTimeX;ML-Powered+Web+Apps+%7C+FastAPI+%2B+Node.js;Open+to+Work+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);ML-Powered+Web+Apps+%7C+FastAPI+%2B+Node.js;Open+to+Work+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=black" alt="Open to Work"/>
 
@@ -29,13 +29,15 @@ const pramodSinzh = {
     payments: ["Stripe", "eSewa", "Khalti"],
     jobsAndEmail: ["Inngest", "Nodemailer", "Brevo SMTP"],
     deployment: ["Vercel", "Render"],
-  }, 
+  },
   certifications: ["MERN Stack Development Training – Broadway Infosys"],
   status: "Actively building and shipping full-stack projects",
   openTo: ["Full Stack Engineer roles", "Freelance/Contract work"],
 };
 ```
- 
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
